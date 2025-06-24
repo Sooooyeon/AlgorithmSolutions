@@ -19,7 +19,7 @@ function solution(topping) {
 */
 function solution(topping) {
     let answer = 0;
-    const leftMap = new Map();
+    //const leftMap = new Map();
     const rightMap = new Map();
 
     // 먼저 전체 토핑을 rightMap에 저장
